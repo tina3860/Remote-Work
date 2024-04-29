@@ -34,7 +34,7 @@ the United States,” Proceedings of the National Academy of Sciences
 of the United States of America, vol. 120, no. 34, Aug. 2023, doi:
 10.1073/pnas.2222075120.
 
-5] Global Workplace Analytics, “Hybrid work Costs and benefits | Global
+[5] Global Workplace Analytics, “Hybrid work Costs and benefits | Global
 Workplace Analytics | Agile Work, and more,” Global Workplace
 Analytics,Apr.19,2024.https://globalworkplaceanalytics.com/resource
 s/costs-benefits#toggle-id-21-closed
@@ -58,6 +58,15 @@ Guidelines-and-policies
 2021. https://researchdata.edu.au/nsw-remote-workingsurvey/
 1820658/?refer_q=subject_value_resolved=NSW%20Producti
 vity%20Commission/
+
+Links to Other Work: 
+
+Google Colab: 
+https://colab.research.google.com/drive/1256xTNSOHnFpsy49q67C006eNBdTIEIi?usp=sharing
+
+Youtube:
+https://youtu.be/Y_lC-EF7R6o
+
 
 
 
