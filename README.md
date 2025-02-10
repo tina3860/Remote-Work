@@ -2,6 +2,10 @@
 CPSC 5175 programming for business: Remote Work Data Analysis Research
 
 
+My research focuses on the impact of the COVID-19 pandemic on the occupational world, particularly the rapid acceleration of remote and hybrid work. It examines how these shifts have transformed traditional work structures and explores whether remote/hybrid policies are suitable for businesses. The objective is to provide actionable insights for companies to make informed decisions about implementing such policies. This research aims to help create a more sustainable and effective work environment for both employers and employees in the evolving work landscape.
+
+----
+
 The occupational world changed after the 2019 COVID pandemic. These changes continue to affect how we operate and interact in business today. The trend towards remote work was already underway, thanks to the rise of telecommunications and freelance opportunities. However, the pandemic accelerated this trend, resulting in the widespread adoption of working from home and its transformative effects on traditional work structures. The research objective is to give businesses seeking to implement a remote/hybrid work policy indications on whether or not this type of policy would be appropriate and successful by providing businesses with actionable insights to inform their decision-making regarding remote work policies, ultimately fostering a more effective and sustainable work environment for both employers and employees in the new norm of remote work.
 
 
