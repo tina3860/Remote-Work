@@ -1,5 +1,5 @@
 # Remote-Work
-CPSC 5175 programming for business: Remote Work Data Analysis Research
+Remote Work Data Analysis Research
 
 
 My research focuses on the impact of the COVID-19 pandemic on the occupational world, particularly the rapid acceleration of remote and hybrid work. It examines how these shifts have transformed traditional work structures and explores whether remote/hybrid policies are suitable for businesses. The objective is to provide actionable insights for companies to make informed decisions about implementing such policies. This research aims to help create a more sustainable and effective work environment for both employers and employees in the evolving work landscape.
